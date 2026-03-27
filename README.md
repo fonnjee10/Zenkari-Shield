@@ -1,4 +1,7 @@
 # Zenkari-Shield
+
+<img width="1024" height="1024" alt="ChatGPT Image 27 mars 2026, 05_22_47" src="https://github.com/user-attachments/assets/a76ac2d7-2e48-4fc3-b29b-595fe8894125" />
+
 Zenkari Shield v7.0 —/ Antivirus Service
 Zenkari Shield is a fully-featured, open-source endpoint security suite built entirely in Python. It combines real antivirus scanning, behavioral analysis, AES-256-GCM encryption, VPN management, network monitoring, and forensic logging into a single desktop application with a polished dark-mode UI.
 
